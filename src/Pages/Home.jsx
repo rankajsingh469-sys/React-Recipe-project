@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import RecipeCard from '../Components/recipeCard';
+import RecipeCard from '../Components/RecipeCard.jsx';
 import Footer from '../Components/Footer';
 
 
